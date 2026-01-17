@@ -1,17 +1,9 @@
-<div align="center">
- <pre>  /$$$$$$  /$$      /$$  /$$$$$$  /$$   /$$ /$$     /$$
- /$$__  $$| $$$    /$$$ /$$__  $$| $$  /$$/|  $$   /$$/
-| $$  \__/| $$$$  /$$$$| $$  \ $$| $$ /$$/  \  $$ /$$/ 
-|  $$$$$$ | $$ $$/$$ $$| $$  | $$| $$$$$/    \  $$$$/  
- \____  $$| $$  $$$| $$| $$  | $$| $$  $$     \  $$/   
- /$$  \ $$| $$\  $ | $$| $$  | $$| $$\  $$     | $$    
-|  $$$$$$/| $$ \/  | $$|  $$$$$$/| $$ \  $$    | $$    
- \______/ |__/     |__/ \______/ |__/  \__/    |__/    
-                                                       
-                                                       
-                                                       `
-</pre>
-</div>
+<p align="center">
+  <a href="https://ohmymex.sh/">
+    <img alt="title" src="https://raw.githubusercontent.com/Sup3rSm0ky/Sup3rSm0ky/refs/heads/main/smoky.png" />
+  </a>
+</p>
+
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Software%20Enginering%20And%20security%20engineer;I+Love+Security+:%3E">
 </div>
